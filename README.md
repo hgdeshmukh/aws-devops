@@ -11,8 +11,7 @@ The aws-devops-workshop repository contains materials related to the IT training
     - [AWS Workshop Hands-on Trainings](./aws/hands-on/README.md)
 
     - [AWS Workshop Projects](./aws/projects/README.md)
-
-    - [AWS Session Class-notes](./aws/class-notes/README.md)
+    
 
 - [DevOps Workshop](./devops/README.md)
 
@@ -20,4 +19,3 @@ The aws-devops-workshop repository contains materials related to the IT training
 
     - [DevOps Workshop Projects](./devops/projects/README.md)
 
-    - [DevOps Session Class-notes](./devops/class-notes/README.md)
